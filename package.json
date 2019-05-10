@@ -15,14 +15,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "3.5.1"
   },
   "dependencies": {
     "axios": "^0.18.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "nodemailer": "^6.1.1",
-    "sendmail": "^1.4.1"
+    "sendmail": "^1.4.1",
+    "concurrently": "4.1.0"
+
   }
 
 }
